@@ -70,9 +70,13 @@ if you face any issues running the application, please make sure those ports are
 ### NEXT
 Go to your fav web browser and run localhost:3006 to see the application
 The backend URLS that will be available are 
+
 │ POST | http://localhost:3005/ 
+
 │ PUT | http://localhost:3005/window 
+
 │ GET | http://localhost:3005/event 
+
 
 ### tests
 tests is only avaiable in the poc application
