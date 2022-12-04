@@ -2,7 +2,10 @@
 
 ### POC-IOT - Working Example
 A video showing the application running. 
+Please click the image. 
+
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/63rjcEUrUWU/0.jpg)](http://www.youtube.com/watch?v=63rjcEUrUWU "Video Title")
+
 ### POC-IOT - Folder Structure
 
     POC-IOT/
